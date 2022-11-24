@@ -1,0 +1,17 @@
+C:\Users\satyam\source\repos\Technorix.WebApi\Technorix.Infrastructure\obj\Debug\net5.0\Technorix.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\satyam\source\repos\Technorix.WebApi\Technorix.Infrastructure\obj\Debug\net5.0\Technorix.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\satyam\source\repos\Technorix.WebApi\Technorix.Infrastructure\obj\Debug\net5.0\Technorix.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\satyam\source\repos\Technorix.WebApi\Technorix.Infrastructure\obj\Debug\net5.0\Technorix.Infrastructure.AssemblyInfo.cs
+C:\Users\satyam\source\repos\Technorix.WebApi\Technorix.Infrastructure\obj\Debug\net5.0\Technorix.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\satyam\source\repos\Technorix.WebApi\Technorix.Infrastructure\bin\Debug\net5.0\Technorix.Infrastructure.deps.json
+C:\Users\satyam\source\repos\Technorix.WebApi\Technorix.Infrastructure\bin\Debug\net5.0\Technorix.Infrastructure.dll
+C:\Users\satyam\source\repos\Technorix.WebApi\Technorix.Infrastructure\bin\Debug\net5.0\Technorix.Infrastructure.pdb
+C:\Users\satyam\source\repos\Technorix.WebApi\Technorix.Infrastructure\bin\Debug\net5.0\Technorix.Application.dll
+C:\Users\satyam\source\repos\Technorix.WebApi\Technorix.Infrastructure\bin\Debug\net5.0\Technorix.Models.dll
+C:\Users\satyam\source\repos\Technorix.WebApi\Technorix.Infrastructure\bin\Debug\net5.0\Technorix.Application.pdb
+C:\Users\satyam\source\repos\Technorix.WebApi\Technorix.Infrastructure\bin\Debug\net5.0\Technorix.Models.pdb
+C:\Users\satyam\source\repos\Technorix.WebApi\Technorix.Infrastructure\obj\Debug\net5.0\Technorix.Infrastructure.csproj.CopyComplete
+C:\Users\satyam\source\repos\Technorix.WebApi\Technorix.Infrastructure\obj\Debug\net5.0\Technorix.Infrastructure.dll
+C:\Users\satyam\source\repos\Technorix.WebApi\Technorix.Infrastructure\obj\Debug\net5.0\refint\Technorix.Infrastructure.dll
+C:\Users\satyam\source\repos\Technorix.WebApi\Technorix.Infrastructure\obj\Debug\net5.0\Technorix.Infrastructure.pdb
+C:\Users\satyam\source\repos\Technorix.WebApi\Technorix.Infrastructure\obj\Debug\net5.0\ref\Technorix.Infrastructure.dll

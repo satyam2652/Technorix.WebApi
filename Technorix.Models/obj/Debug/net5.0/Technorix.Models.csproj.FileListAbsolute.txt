@@ -1,0 +1,12 @@
+C:\Users\satyam\source\repos\Technorix.WebApi\Technorix.Models\bin\Debug\net5.0\Technorix.Models.deps.json
+C:\Users\satyam\source\repos\Technorix.WebApi\Technorix.Models\bin\Debug\net5.0\Technorix.Models.dll
+C:\Users\satyam\source\repos\Technorix.WebApi\Technorix.Models\bin\Debug\net5.0\Technorix.Models.pdb
+C:\Users\satyam\source\repos\Technorix.WebApi\Technorix.Models\obj\Debug\net5.0\Technorix.Models.csproj.AssemblyReference.cache
+C:\Users\satyam\source\repos\Technorix.WebApi\Technorix.Models\obj\Debug\net5.0\Technorix.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\satyam\source\repos\Technorix.WebApi\Technorix.Models\obj\Debug\net5.0\Technorix.Models.AssemblyInfoInputs.cache
+C:\Users\satyam\source\repos\Technorix.WebApi\Technorix.Models\obj\Debug\net5.0\Technorix.Models.AssemblyInfo.cs
+C:\Users\satyam\source\repos\Technorix.WebApi\Technorix.Models\obj\Debug\net5.0\Technorix.Models.csproj.CoreCompileInputs.cache
+C:\Users\satyam\source\repos\Technorix.WebApi\Technorix.Models\obj\Debug\net5.0\Technorix.Models.dll
+C:\Users\satyam\source\repos\Technorix.WebApi\Technorix.Models\obj\Debug\net5.0\refint\Technorix.Models.dll
+C:\Users\satyam\source\repos\Technorix.WebApi\Technorix.Models\obj\Debug\net5.0\Technorix.Models.pdb
+C:\Users\satyam\source\repos\Technorix.WebApi\Technorix.Models\obj\Debug\net5.0\ref\Technorix.Models.dll

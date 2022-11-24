@@ -1,0 +1,332 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\satyam\\Desktop\\Technorix.WebApi\\Technorix.WebApi\\Technorix.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\satyam\\Desktop\\Technorix.WebApi\\Technorix.Application\\Technorix.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\satyam\\Desktop\\Technorix.WebApi\\Technorix.Application\\Technorix.Application.csproj",
+        "projectName": "Technorix.Application",
+        "projectPath": "C:\\Users\\satyam\\Desktop\\Technorix.WebApi\\Technorix.Application\\Technorix.Application.csproj",
+        "packagesPath": "C:\\Users\\satyam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\satyam\\Desktop\\Technorix.WebApi\\Technorix.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\satyam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\satyam\\Desktop\\Technorix.WebApi\\Technorix.Models\\Technorix.Models.csproj": {
+                "projectPath": "C:\\Users\\satyam\\Desktop\\Technorix.WebApi\\Technorix.Models\\Technorix.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\satyam\\Desktop\\Technorix.WebApi\\Technorix.Infrastructure\\Technorix.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\satyam\\Desktop\\Technorix.WebApi\\Technorix.Infrastructure\\Technorix.Infrastructure.csproj",
+        "projectName": "Technorix.Infrastructure",
+        "projectPath": "C:\\Users\\satyam\\Desktop\\Technorix.WebApi\\Technorix.Infrastructure\\Technorix.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\satyam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\satyam\\Desktop\\Technorix.WebApi\\Technorix.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\satyam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\satyam\\Desktop\\Technorix.WebApi\\Technorix.Application\\Technorix.Application.csproj": {
+                "projectPath": "C:\\Users\\satyam\\Desktop\\Technorix.WebApi\\Technorix.Application\\Technorix.Application.csproj"
+              },
+              "C:\\Users\\satyam\\Desktop\\Technorix.WebApi\\Technorix.Models\\Technorix.Models.csproj": {
+                "projectPath": "C:\\Users\\satyam\\Desktop\\Technorix.WebApi\\Technorix.Models\\Technorix.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\satyam\\Desktop\\Technorix.WebApi\\Technorix.Models\\Technorix.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\satyam\\Desktop\\Technorix.WebApi\\Technorix.Models\\Technorix.Models.csproj",
+        "projectName": "Technorix.Models",
+        "projectPath": "C:\\Users\\satyam\\Desktop\\Technorix.WebApi\\Technorix.Models\\Technorix.Models.csproj",
+        "packagesPath": "C:\\Users\\satyam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\satyam\\Desktop\\Technorix.WebApi\\Technorix.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\satyam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[10.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\satyam\\Desktop\\Technorix.WebApi\\Technorix.WebApi\\Technorix.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\satyam\\Desktop\\Technorix.WebApi\\Technorix.WebApi\\Technorix.WebApi.csproj",
+        "projectName": "Technorix.WebApi",
+        "projectPath": "C:\\Users\\satyam\\Desktop\\Technorix.WebApi\\Technorix.WebApi\\Technorix.WebApi.csproj",
+        "packagesPath": "C:\\Users\\satyam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\satyam\\Desktop\\Technorix.WebApi\\Technorix.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\satyam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\satyam\\Desktop\\Technorix.WebApi\\Technorix.Application\\Technorix.Application.csproj": {
+                "projectPath": "C:\\Users\\satyam\\Desktop\\Technorix.WebApi\\Technorix.Application\\Technorix.Application.csproj"
+              },
+              "C:\\Users\\satyam\\Desktop\\Technorix.WebApi\\Technorix.Infrastructure\\Technorix.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\satyam\\Desktop\\Technorix.WebApi\\Technorix.Infrastructure\\Technorix.Infrastructure.csproj"
+              },
+              "C:\\Users\\satyam\\Desktop\\Technorix.WebApi\\Technorix.Models\\Technorix.Models.csproj": {
+                "projectPath": "C:\\Users\\satyam\\Desktop\\Technorix.WebApi\\Technorix.Models\\Technorix.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNet.Identity.Owin": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.2.9, )"
+            },
+            "Microsoft.AspNet.WebApi.Owin": {
+              "target": "Package",
+              "version": "[5.2.9, )"
+            },
+            "Microsoft.Owin": {
+              "target": "Package",
+              "version": "[4.2.2, )"
+            },
+            "Microsoft.Owin.Cors": {
+              "target": "Package",
+              "version": "[4.2.2, )"
+            },
+            "Microsoft.Owin.Host.SystemWeb": {
+              "target": "Package",
+              "version": "[4.2.2, )"
+            },
+            "Microsoft.Owin.Security": {
+              "target": "Package",
+              "version": "[4.2.2, )"
+            },
+            "Microsoft.Owin.Security.OAuth": {
+              "target": "Package",
+              "version": "[4.2.2, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.12.0, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Serilog.Settings.Configuration": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
